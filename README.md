@@ -1,4 +1,4 @@
-This is a boilerplate created in "Advanced React" course by Willian Justen.
+This is a boilerplate created in "Advanced React" course
 
 ## Getting Started
 
